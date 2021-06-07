@@ -1,1 +1,2 @@
+CAdding new command
 Hi this is my first file
